@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "got_head": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:player_head"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "playerheads:convert"
+  }
+}

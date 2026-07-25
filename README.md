@@ -8,6 +8,8 @@ Craft a Player Head using a carved pumpkin in the middle with gold ingots on the
 
 ![Crafting recipe](images/recipe.png)
 
+![The resulting head](images/result.png)
+
 Then pop that head into an anvil and rename it to someone's username (like `Notch`). When you take it back out, it turns into that player's head with their actual skin. The head is dynamic too, so if that player ever changes their skin, the head updates on its own.
 
 The first time you craft the recipe you'll get a quick chat message reminding you what to do next.
